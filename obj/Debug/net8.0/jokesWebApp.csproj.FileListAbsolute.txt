@@ -1,0 +1,11 @@
+C:\Users\ALEX TOP\Desktop\.NET\C#\jocksWebApp\obj\Debug\net8.0\jokesWebApp.csproj.AssemblyReference.cache
+C:\Users\ALEX TOP\Desktop\.NET\C#\jocksWebApp\obj\Debug\net8.0\jokesWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALEX TOP\Desktop\.NET\C#\jocksWebApp\obj\Debug\net8.0\jokesWebApp.AssemblyInfoInputs.cache
+C:\Users\ALEX TOP\Desktop\.NET\C#\jocksWebApp\obj\Debug\net8.0\jokesWebApp.AssemblyInfo.cs
+C:\Users\ALEX TOP\Desktop\.NET\C#\jocksWebApp\obj\Debug\net8.0\jokesWebApp.csproj.CoreCompileInputs.cache
+C:\Users\ALEX TOP\Desktop\.NET\C#\jocksWebApp\obj\Debug\net8.0\jokesWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ALEX TOP\Desktop\.NET\C#\jocksWebApp\obj\Debug\net8.0\jokesWebApp.RazorAssemblyInfo.cache
+C:\Users\ALEX TOP\Desktop\.NET\C#\jocksWebApp\obj\Debug\net8.0\jokesWebApp.RazorAssemblyInfo.cs
+C:\Users\ALEX TOP\Desktop\.NET\C#\jocksWebApp\obj\Debug\net8.0\jokesWebApp.dll
+C:\Users\ALEX TOP\Desktop\.NET\C#\jocksWebApp\obj\Debug\net8.0\refint\jokesWebApp.dll
+C:\Users\ALEX TOP\Desktop\.NET\C#\jocksWebApp\obj\Debug\net8.0\jokesWebApp.pdb
