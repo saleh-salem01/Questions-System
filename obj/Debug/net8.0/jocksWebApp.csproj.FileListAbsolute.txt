@@ -261,3 +261,4 @@ C:\Users\ALEX TOP\Desktop\.NET\C#\jocksWebApp\bin\Debug\net8.0\runtimes\win\lib\
 C:\Users\ALEX TOP\Desktop\.NET\C#\jocksWebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\ALEX TOP\Desktop\.NET\C#\jocksWebApp\obj\Debug\net8.0\jocksWebApp.csproj.AssemblyReference.cache
 C:\Users\ALEX TOP\Desktop\.NET\C#\jocksWebApp\obj\Debug\net8.0\jocksWebApp.csproj.CopyComplete
+C:\Users\ALEX TOP\Desktop\.NET\C#\jocksWebApp\obj\Debug\net8.0\jocksWebApp.sourcelink.json

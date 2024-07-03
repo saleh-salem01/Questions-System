@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using jocksWebApp.Models;
+using System.Reflection;
 
 namespace jocksWebApp.Data
 {
@@ -14,7 +15,10 @@ namespace jocksWebApp.Data
         {
         }
 
-        public DbSet<jocksWebApp.Models.joke> joke { get; set; } = default!;
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+        }
         public DbSet<jocksWebApp.Models.QAnswer> QAnswer { get; set; } = default!;
     }
 }
