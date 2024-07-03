@@ -30,7 +30,7 @@ Huge thanks to the team for their hard work and dedication in bringing this proj
 
 2. Navigate to the project directory:
     ```bash
-    cd questionsystem
+    cd jocksWebApp
     ```
 
 3. Build the project:
